@@ -1,0 +1,81 @@
+.answer-selected{
+	background-color: grey;
+}
+
+body {
+	background-image: url('http://fc00.deviantart.net/fs71/f/2012/068/1/d/trees_by_wantou-d4s6yym.jpg');
+	background-attachment:fixed;
+	background-size:cover;
+	}
+.header {
+	position:relative;
+	top:90px;
+	color: white;
+	font-size: 20px;
+
+}
+
+.roboto {
+	font-family: 'Roboto';
+
+	font-weight: 700;
+}
+.center {
+		text-align: center
+}
+
+.center-block {
+  			      display: inline-block;
+  		 	  margin-left: 2%;
+  			 margin-right: 2%;
+				float: none;
+}
+
+
+.circle {
+			border-radius: 50%;
+				width: 200px;
+			       height: 200px; 
+		     background-color: green;
+			      opacity: 0.9;
+				  top: 75px;
+}
+.prezentacja {
+
+			      padding: 15px;
+			margin-bottom: 40px;
+		 	      opacity: 0.9;
+		     background-color: white;
+		 
+				  
+		 
+}
+.prezentacja2 {
+			      padding: 15px;
+			margin-bottom: 40px;
+		 	      opacity: 0.9;
+		     background-color: black;
+		 
+				  
+		 
+}
+#prezentacja {
+				  padding: 10px;
+			  padding-top: 10px;
+					  top: 100px;	 
+}
+
+#logo {
+			   margin-top: 75px;
+			   padding: 20px;
+}
+#main {
+			   margin-top: 40px;
+}
+#info {
+				  padding-left: 20px;
+}
+
+#klik {
+				   margin: 10px;
+}
